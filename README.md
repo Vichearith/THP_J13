@@ -1,4 +1,1 @@
-#Ruby
-##Repository : scrapping
-###Gems needed : 
-####rest-open-uri, ####nokogiri, ####pry, ####rspec, ####dotenv, ####launchy, ####rubocop', '~> 0.57.2, 
+# The Hacking Project - Semaine 3 - Mercredi
